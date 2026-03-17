@@ -6,7 +6,7 @@ export const siteConfig = {
 };
 
 export const home = {
-  title: "Caliente\nSneakers",
+  title: "Caliente\nSneakerss",
   subtitle: "Bienvenidos",
   description:
     "Este espacio no es para cualquiera. Aquí no hablamos solo de calzado, hablamos de pasión, cultura y estilo. Si las zapatillas son parte de tu vida, si te emocionas con cada nuevo lanzamiento, si cuidas tus pares como un tesoro y te interesa todo lo que rodea a la moda urbana… entonces has llegado al lugar correcto.",
