@@ -20,7 +20,7 @@ export const home = {
       description: "✨ Desde productos de limpieza...",
     },
     {
-      title: "Mucho más",
+      title: "Mucho máss",
       description: "🚀 Consejos y contenido creado...",
     },
   ],
