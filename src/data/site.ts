@@ -17,7 +17,7 @@ export const home = {
     },
     {
       title: "Accesorios recomendados",
-      description: "✨ Desde productos de limpieza hasta complementos que potencian tu outfit.",
+      description: "✨ DDesde productos de limpieza hasta complementos que potencian tu outfit.",
     },
     {
       title: "Mucho más",
