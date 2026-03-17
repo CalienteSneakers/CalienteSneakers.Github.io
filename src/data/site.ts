@@ -22,6 +22,20 @@ export const home = {
     {
       title: "Mucho más",
       description: "🚀 Consejos y contenido creado para quienes de verdad sienten esta cultura.",
+        },
+  ],
+  stats: [
+    {
+      value: "5+",
+      label: "Frameworks",
+    },
+    {
+      value: "10+",
+      label: "Components",
+    },
+    {
+      value: "99",
+      label: "Performance Score",
     },
   ],
 };
