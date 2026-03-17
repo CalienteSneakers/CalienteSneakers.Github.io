@@ -24,4 +24,18 @@ export const home = {
       description: "🚀 Consejos y contenido creado para quienes de verdad sienten esta cultura.",
         },
   ],
+  stats: [
+    {
+      value: "",
+      label: "",
+    },
+    {
+      value: "",
+      label: "",
+    },
+    {
+      value: "",
+      label: "",
+    },
+  ],
 };
