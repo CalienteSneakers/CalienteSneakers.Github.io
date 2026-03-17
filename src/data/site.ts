@@ -6,18 +6,18 @@ export const siteConfig = {
 };
 
 export const home = {
-  title: "Caliente\nSneakerss",
-  subtitle: "Bienvenidos",
+  title: "Caliente\nSneakers",
+  subtitle: "Bienvenido a",
   description:
     "Este espacio no es para cualquiera. Aquí no hablamos solo de calzado, hablamos de pasión, cultura y estilo. Si las zapatillas son parte de tu vida, si te emocionas con cada nuevo lanzamiento, si cuidas tus pares como un tesoro y te interesa todo lo que rodea a la moda urbana… entonces has llegado al lugar correcto.",
   features: [
     {
-      title: "Guías exclusivas:",
-      description: "Aprende a cuidar tus zapatillas, cómo combinarlas con tu estilo y a detectar las mejores ediciones.",
+      title: "Guías exclusivas",
+      description: "👟 Aprende a cuidar tus zapatillas, cómo combinarlas con tu estilo y a detectar las mejores ediciones.",
     },
     {
       title: "Accesorios recomendados",
-      description: "✨ DDesde productos de limpieza hasta complementos que potencian tu outfit.",
+      description: "✨ Desde productos de limpieza hasta complementos que potencian tu outfit.",
     },
     {
       title: "Mucho más",
@@ -26,16 +26,16 @@ export const home = {
   ],
   stats: [
     {
-      value: "5+",
-      label: "Frameworks",
+      value: "",
+      label: "",
     },
     {
-      value: "10+",
-      label: "Components",
+      value: "",
+      label: "",
     },
     {
-      value: "99",
-      label: "Performance Score",
+      value: "",
+      label: "",
     },
   ],
 };
