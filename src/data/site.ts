@@ -9,33 +9,19 @@ export const home = {
   title: "One Template\nEvery Framework",
   subtitle: "Ultimate Astro Template",
   description:
-    "Discover the power of multi-framework development with our ultimate Astro template. From React to Vue, Svelte to Solid - experience them all in one blazing-fast website.",
+    "Este espacio no es para cualquiera. Aquí no hablamos solo de calzado, hablamos de pasión, cultura y estilo. Si las zapatillas son parte de tu vida, si te emocionas con cada nuevo lanzamiento, si cuidas tus pares como un tesoro y te interesa todo lo que rodea a la moda urbana… entonces has llegado al lugar correcto.",
   features: [
     {
-      title: "All Frameworks",
-      description: "🎭 React, Vue, Svelte, Solid - use them all together",
+      title: "Guías exclusivas:",
+      description: "Aprende a cuidar tus zapatillas, cómo combinarlas con tu estilo y a detectar las mejores ediciones.",
     },
     {
-      title: "Best Practices",
-      description: "✨ Modern design patterns & optimized performance",
+      title: "Accesorios recomendados",
+      description: "✨ Desde productos de limpieza hasta complementos que potencian tu outfit.",
     },
     {
-      title: "Ready to Use",
-      description: "🚀 Pre-built components for each framework",
-    },
-  ],
-  stats: [
-    {
-      value: "5+",
-      label: "Frameworks",
-    },
-    {
-      value: "10+",
-      label: "Components",
-    },
-    {
-      value: "99",
-      label: "Performance Score",
+      title: "Mucho más",
+      description: "🚀 Consejos y contenido creado para quienes de verdad sienten esta cultura.",
     },
   ],
 };
